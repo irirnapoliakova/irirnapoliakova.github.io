@@ -1,0 +1,17 @@
+div{
+  text-align: left;
+  width: 500px;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+.fig{
+  text-align: center;
+}
+p{
+  text-indent: 30px;
+  font-size: 13px;
+}
+.bio
+{
+  border-bottom: 1px solid gray;
+}
